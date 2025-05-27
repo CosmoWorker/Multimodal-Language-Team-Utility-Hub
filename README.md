@@ -8,11 +8,10 @@
 ### Core Technologies Used:
 - Frontend: Nextjs
 - Backend: Nextjs
-- Database: n/a
 - APIs: groq
 - Hosting: Vercel
 
-### Sponsor Technologies Used (if any):
+### Technologies Used:
 - [✅] **Groq:**
 ---
 
